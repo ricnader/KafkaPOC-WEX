@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "/ZWxIdEGcZyl4d/sy5xbX8S/BOIZhDStAhG07mgVCwWBPDSrzs23g0p83wMD9r0H6y+Vz0YAotjlWOQyAkxMvw==",
+  "success": true,
+  "projectFilePath": "C:\\POC_Wex\\Kafka\\KafkaProducerPOC\\KafkaProducerPOC\\KafkaProducerPOC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ricardo\\.nuget\\packages\\confluent.kafka\\2.0.2\\confluent.kafka.2.0.2.nupkg.sha512",
+    "C:\\Users\\Ricardo\\.nuget\\packages\\librdkafka.redist\\2.0.2\\librdkafka.redist.2.0.2.nupkg.sha512",
+    "C:\\Users\\Ricardo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Ricardo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Ricardo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Ricardo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "C:\\Users\\Ricardo\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

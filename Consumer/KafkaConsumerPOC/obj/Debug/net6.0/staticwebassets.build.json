@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zH3W8vmbL7kaswZ2rocZMpCLdk+Ms+vl4ifkNh9SqSE=",
+  "Source": "KafkaConsumerPOC",
+  "BasePath": "_content/KafkaConsumerPOC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

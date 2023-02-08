@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "/ZiCfP/qsxd5hOHX/BK5xtCC0i9vfniJNGr1l6PkzMo=",
+  "Source": "KafkaProducerPOC",
+  "BasePath": "_content/KafkaProducerPOC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
